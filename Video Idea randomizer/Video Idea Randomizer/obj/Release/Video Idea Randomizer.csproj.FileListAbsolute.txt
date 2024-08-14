@@ -1,0 +1,10 @@
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\bin\Release\Video Idea Randomizer.exe.config
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\bin\Release\Video Idea Randomizer.exe
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\bin\Release\Video Idea Randomizer.pdb
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video Idea Randomizer.csproj.AssemblyReference.cache
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video_Idea_Randomizer.Form1.resources
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video_Idea_Randomizer.Properties.Resources.resources
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video Idea Randomizer.csproj.GenerateResource.cache
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video Idea Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video Idea Randomizer.exe
+C:\Users\Jerem\Downloads\C# Program files\Video Idea randomizer\Video Idea Randomizer\obj\Release\Video Idea Randomizer.pdb
